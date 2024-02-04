@@ -1,0 +1,45 @@
+# .NET Core
+bin/
+obj/
+out/
+*.suo
+*.user
+*.userosscache
+*.dll
+*.exe
+*.pdb
+*.cache
+*.bak
+*.swp
+*.vspscc
+*.vssscc
+.idea/
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# ASP.NET Core
+wwwroot/
+**/Properties/launchSettings.json
+
+# Visual Studio 2022
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Do not incl. appsettings
+appsettings.json
+appsettings.Development.json
